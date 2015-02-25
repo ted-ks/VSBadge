@@ -1,0 +1,4 @@
+C:\Users\vishnu.k_s\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Company\AddButtonToFrame\1.0\\AddButtonToFrame.dll
+C:\Users\vishnu.k_s\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Company\AddButtonToFrame\1.0\\AddButtonToFrame.pkgdef
+C:\Users\vishnu.k_s\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Company\AddButtonToFrame\1.0\\extension.vsixmanifest
+C:\Users\vishnu.k_s\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Company\AddButtonToFrame\1.0\\AddButtonToFrame.pdb
